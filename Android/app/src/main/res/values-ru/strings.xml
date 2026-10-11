@@ -148,7 +148,7 @@
     <string name="playlist_detail_content_description_back">Назад</string>
     <string name="playlist_detail_content_description_favorite">В избранное</string>
     <string name="playlist_detail_content_description_shuffle">Перемешать</string>
-    <string name="playlist_detail_button_play">ИГРАТЬ</string>
+    <string name="playlist_detail_button_play">ВОСПРОИЗВЕСТИ</string>
     <string name="playlist_detail_section_songs">Песни</string>
 
     <!-- Library screen -->
@@ -163,7 +163,7 @@
     <!-- Favorites screen -->
     <string name="favorites_empty_title">В избранном пока пусто</string>
     <string name="favorites_empty_subtitle">Нажмите на сердечко у любой песни, чтобы добавить её в избранное.</string>
-    <string name="favorites_button_play">Играть</string>
+    <string name="favorites_button_play">Воспроизвести</string>
     <string name="favorites_button_shuffle">Перемешать</string>
     <string name="favorites_refresh">Обновить избранное</string>
 
@@ -194,7 +194,7 @@
     <string name="downloads_header_title">Загрузки</string>
     <string name="downloads_label_stats">Песен: %1$d · %2$s</string>
     <string name="downloads_button_remove_all">Удалить всё</string>
-    <string name="downloads_button_play_all">Играть все</string>
+    <string name="downloads_button_play_all">Воспроизвести все</string>
     <string name="downloads_button_shuffle">Перемешать</string>
     <string name="downloads_empty_title">Загрузок пока нет</string>
     <string name="downloads_empty_subtitle">Скачивайте песни, чтобы слушать их офлайн. Нажмите на меню у любой песни и выберите «Скачать».</string>
@@ -213,7 +213,7 @@
 
     <!-- More screen -->
     <string name="more_header_title">Другое</string>
-    <string name="more_item_soundbites">Саундбайты</string>
+    <string name="more_item_soundbites">ЗвуЗвуковые клипы</string>
     <string name="more_item_public_playlists">Публичные плейлисты</string>
     <string name="more_item_setlists">Сетлисты</string>
     <string name="more_item_artists">Исполнители</string>
@@ -227,7 +227,7 @@
     <string name="recently_played_empty_subtitle">Здесь появятся песни, которые вы послушаете</string>
     <string name="recently_played_clear">Очистить</string>
     <string name="random_songs_empty_title">Нет доступных песен</string>
-    <string name="random_songs_play">Играть</string>
+    <string name="random_songs_play">Воспроизвести</string>
     <string name="random_songs_reshuffle">Перемешать заново</string>
 
     <!-- Theme options -->
@@ -350,7 +350,7 @@
     <string name="aaos_playlist_detail_content_description_back">Назад</string>
     <string name="aaos_playlist_detail_loading">Загрузка…</string>
     <string name="aaos_playlist_detail_empty">Нет песен</string>
-    <string name="aaos_playlist_detail_button_play">Играть</string>
+    <string name="aaos_playlist_detail_button_play">Воспроизвести</string>
     <string name="aaos_playlist_detail_button_shuffle">Перемешать</string>
 
     <!-- Android Auto Car library -->
@@ -368,7 +368,7 @@
     <string name="car_radio_station_title">Neuro 21 Station</string>
     <string name="car_radio_subtitle">В эфире • Караоке-радио 24/7</string>
     <string name="car_radio_button_listen">Слушать эфир</string>
-    <string name="car_playlist_button_play">Играть</string>
+    <string name="car_playlist_button_play">Воспроизвести</string>
     <string name="car_playlist_button_shuffle">Перемешать</string>
     <string name="car_label_untitled">Без названия</string>
     <string name="car_label_unknown_artist">Неизвестный исполнитель</string>
@@ -435,7 +435,7 @@
 
     <!-- Artists screen -->
     <string name="artists_header_title">Исполнители</string>
-    <string name="artists_header_subtitle">Песни по исполнителям оригиналов, которых перепели Neuro и Evil</string>
+    <string name="artists_header_subtitle">Песни по исполнителям оригиналов, чьи треки перепели Neuro и Evil</string>
     <string name="artists_search_placeholder">Поиск исполнителей</string>
     <string name="artists_label_count">Исполнителей: %1$d</string>
     <string name="artists_status_loading">Загрузка исполнителей…</string>
@@ -445,7 +445,7 @@
     <string name="artist_detail_content_description_back">Назад</string>
     <string name="artist_detail_label_artist">ИСПОЛНИТЕЛЬ</string>
     <string name="artist_detail_label_songs_covered">Каверов: %1$d</string>
-    <string name="artist_detail_button_play">ИГРАТЬ</string>
+    <string name="artist_detail_button_play">ВОСПРОИЗВЕСТИ</string>
     <string name="artist_detail_content_description_shuffle">Перемешать</string>
     <string name="artist_detail_section_songs">ПЕСНИ</string>
 
@@ -455,7 +455,7 @@
     <string name="upload_empty_title">Нет песен на устройстве</string>
     <string name="upload_empty_subtitle">Нажмите +, чтобы импортировать файлы .mp3 с вашего устройства.</string>
     <string name="upload_button_import">Импортировать музыку</string>
-    <string name="upload_button_play">Играть</string>
+    <string name="upload_button_play">Воспроизвести</string>
     <string name="upload_button_shuffle">Перемешать</string>
     <string name="upload_label_song_count">Песен: %1$d</string>
     <string name="upload_content_description_remove">Удалить</string>
