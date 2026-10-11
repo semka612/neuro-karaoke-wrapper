@@ -213,7 +213,7 @@
 
     <!-- More screen -->
     <string name="more_header_title">Другое</string>
-    <string name="more_item_soundbites">ЗвуЗвуковые клипы</string>
+    <string name="more_item_soundbites">Звуковые клипы</string>
     <string name="more_item_public_playlists">Публичные плейлисты</string>
     <string name="more_item_setlists">Сетлисты</string>
     <string name="more_item_artists">Исполнители</string>
@@ -272,7 +272,7 @@
     <string name="radio_button_retry">Повторить</string>
     <string name="radio_offline_title">Радио сейчас не в эфире</string>
     <string name="radio_offline_subtitle">Загляните позже!</string>
-    <string name="radio_default_title">Караоке-радио 24/7</string>
+    <string name="radio_default_title">24/7 Karaoke Radio</string>
     <string name="radio_station_badge_live">NEURO 21 STATION • В ЭФИРЕ</string>
     <string name="radio_covered_by">%1$s  •  в исполнении %2$s</string>
 
