@@ -91,7 +91,7 @@
     <string name="queue_label_now_playing">Сейчас играет</string>
     <string name="queue_label_up_next">Далее (песен: %1$d)</string>
     <string name="queue_label_empty">В очереди больше нет песен</string>
-    <string name="queue_content_description_playing">Играет</string>
+    <string name="queue_content_description_playing">Воспроизводится</string>
 
     <!-- Audio effects / Equalizer -->
     <string name="equalizer_sheet_title">Звуковые эффекты</string>
@@ -241,7 +241,7 @@
     <string name="settings_content_description_back">Назад</string>
     <string name="settings_section_playback">Воспроизведение</string>
     <string name="settings_section_audio">Звук</string>
-    <string name="settings_crossfade_title">Кроссфейд</string>
+    <string name="settings_crossfade_title">Плавный переход</string>
     <string name="settings_crossfade_subtitle">Плавный переход между песнями</string>
     <string name="settings_crossfade_off">Выкл.</string>
     <string name="settings_crossfade_value">%1$d с</string>
